@@ -1,0 +1,29 @@
+{
+  "name": "squishy-beats",
+  "version": "1.0.0",
+  "description": "Squishy beats bot for playing music",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedvi/Squishy-Beats.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dedvi/Squishy-Beats/issues"
+  },
+  "homepage": "https://github.com/Dedvi/Squishy-Beats#readme",
+  "dependencies": {
+    "@discordjs/builders": "^0.6.0",
+    "@discordjs/rest": "^0.1.0-canary.0",
+    "@discordjs/voice": "^0.6.0",
+    "discord-api-types": "^0.23.1",
+    "discord.js": "^13.1.0",
+    "libsodium-wrappers": "^0.7.9",
+    "youtube-mp3-converter": "^1.0.3",
+    "ytdl-core": "^4.9.1"
+  }
+}
